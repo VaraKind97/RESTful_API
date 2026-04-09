@@ -1,0 +1,5 @@
+ru\netology\orderservice\model\OrderItem.class
+ru\netology\orderservice\OrderServiceApplication.class
+ru\netology\orderservice\service\OrderService.class
+ru\netology\orderservice\controller\OrderController.class
+ru\netology\orderservice\model\Order.class

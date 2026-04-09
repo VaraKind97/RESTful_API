@@ -1,0 +1,9 @@
+ru\netology\bffservice\model\Item.class
+ru\netology\bffservice\model\BFFOrder.class
+ru\netology\bffservice\service\BFFService$1.class
+ru\netology\bffservice\BffServiceApplication.class
+ru\netology\bffservice\controller\BFFController.class
+ru\netology\bffservice\service\BFFService.class
+ru\netology\bffservice\model\UserProfile.class
+ru\netology\bffservice\config\WebClientConfig.class
+ru\netology\bffservice\model\UserData.class

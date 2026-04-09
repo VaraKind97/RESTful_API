@@ -1,0 +1,4 @@
+ru\netology\userservice\model\User.class
+ru\netology\userservice\service\UserService.class
+ru\netology\userservice\UserServiceApplication.class
+ru\netology\userservice\controller\UserController.class
